@@ -21,3 +21,4 @@ index.html, style.css, app.js, icon PNGs, manifest.webmanifest and sw.js. Keep t
 
 SUPPORT
 HarborNestDigital · Digital product. No physical item is shipped.
+
